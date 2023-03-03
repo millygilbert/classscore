@@ -25,4 +25,4 @@ median_score = total_score / count
 print("The median score is {}".format(median_score))
 
 # Print highest score
-
+print("HI")
